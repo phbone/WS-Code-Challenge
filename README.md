@@ -1,7 +1,7 @@
 Rebalancing Module
 ===================
 
-Simple Portfolio Rebalancing Module.
+Simple Portfolio Rebalancing Module.'''
 
 To view the given run case:
 
