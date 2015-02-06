@@ -18,7 +18,7 @@ Technical Choices
 Javascript
 
     - Easy way to solve the challenge and run unit tests without having to set up an environment.
-    - Future Improvement: This module would be more useful in a Wealthsimple backend language such as Java or Ruby.
+    - Future Improvement: This module would be more useful in a WS backend language such as Java or Ruby.
 
 Input portfolio as list of Asset objects
 
